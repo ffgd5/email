@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+.content {
+    width: 93px;
+    height: 20px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+    color: #663399;  
+  }
+  .content-01 {
+    width: 75px;
+    height: 20px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+    color: #663399;
+  }
+
+  .text-call {
+    width: 126px;
+    height: 40px;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.67;
+    letter-spacing: normal;
+    color: #663399; 
+}
+
+.E-commerce {
+    width: 328px;
+    height: 20px;
+    font-family: 'Roboto', regular;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.67;
+    letter-spacing: normal;
+    color: #663399;
+  }
+  .autokodixr {
+    width: 109px;
+    height: 20px;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.67;
+    letter-spacing: normal;
+    color: #663399;
+  }
+  .Group-30 {
+    width: 180px;
+    height: 47px;
+    object-fit: contain;
+  }
+  .FB {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+  }
+  .instagram {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+  }
+  .telegram {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+  }
+  .meetup {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+  }
+  
+  .text {
+    width: 400px;
+    height: 20px;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.67;
+    letter-spacing: normal;
+    color: #8f8f8f;
+  }
